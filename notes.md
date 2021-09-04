@@ -21,3 +21,5 @@ $ git add .
 $ git commit -m "notes.md updated"
 
 $ git push origin master
+
+Jon added a row here!
